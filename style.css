@@ -1,0 +1,49 @@
+body {
+    background-color: lightblue;
+}
+  
+.bem-vindo-plataforma {
+    color: white;
+    text-align: center;
+}
+
+.plataforma-segura {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+
+
+}
+
+.oq-vou-aprender {
+
+    color:blue;
+    text-align: left;
+    font-size: 35px;
+}
+
+.topicos-inicio {
+
+    color:white;
+    text-align: center;
+    font-size: 27px;
+}
+
+.topico-info-inicio{
+
+    color:white;
+    text-align: center;
+    font-size: 20px;
+}
+  
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.estudando-img-menor {
+    width: 400px; 
+    height: auto; 
+    display: block;
+    margin: 0 auto;
+}
